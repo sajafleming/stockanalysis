@@ -1,0 +1,1 @@
+-- Analyzes raw stock market data and builds analytics table summarizing it
